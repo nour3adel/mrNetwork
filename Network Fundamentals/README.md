@@ -321,7 +321,7 @@ CSMA/CD is still used for any half-duplex link.**
 
 - When no node is transmitting the data, then the token will circulate in the ring.
 
-- Transmission is **unidirectional**, bur it can be made bidirectional by having 2 connections between each network node (Dual Ring Topology).
+- Transmission is **unidirectional**, but it can be made bidirectional by having 2 connections between each network node (Dual Ring Topology).
 
 ## Tree Topology (Star Bus Topology)
 
